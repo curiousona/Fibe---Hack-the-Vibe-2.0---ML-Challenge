@@ -1,0 +1,8 @@
+# Ignore environment directory
+env/
+
+# Ignore large data files
+data/X_train_tfidf.npz
+data/X_val_tfidf.npz
+data/test.csv
+data/train.csv
